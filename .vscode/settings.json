@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "n55lx.myd.infomaniak.com",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "mysql",
+      "database": "n55lx_nade_nade",
+      "username": "n55lx_nade_env"
+    }
+  ]
+}
